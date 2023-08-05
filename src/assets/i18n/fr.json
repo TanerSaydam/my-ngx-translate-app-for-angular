@@ -1,0 +1,13 @@
+{
+    "App": {
+        "Hello": "Hello Fr",
+        "LoginPage": "Login Page Fr",
+        "HomePage": "Home Page Fr"
+    },
+    "Home":{
+        "HomeWorks": "Home Works! Fr"
+    },
+    "Login":{
+        "LoginWorks": "Login Works! Fr"
+    }
+}
